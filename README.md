@@ -34,7 +34,7 @@
   </a>
 </p>
 
-##
+## Tecnologias que uso em meus projetos
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
