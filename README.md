@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando JavaScript e seus frameworks, TypeScript, Python, entre outras.
-- 💬 Está no último ano do Ensino Médio e é um desenvolvedor em formação apaixonado por tecnologia e programação. Ele busca aprimorar suas habilidades para criar soluções inovadoras e impactar o mundo positivamente, enquanto também aproveita o tempo com amigos e música.
+- 💬 Estou no último ano do Ensino Médio e é um desenvolvedor em formação apaixonado por tecnologia e programação. Ele busca aprimorar suas habilidades para criar soluções inovadoras e impactar o mundo positivamente, enquanto também aproveita o tempo com amigos e música.
 - 📫 Contate-me no email: gabrielaugustoassisnascimento@gmail.com
 
 <p align="center">
